@@ -1,1 +1,2 @@
  I learned datamangement /version control/sharing today
+datamanagement is hard
